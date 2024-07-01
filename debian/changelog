@@ -1,0 +1,485 @@
+lightdm-settings (2.0.4+hamonikr1) wilma; urgency=medium
+
+  * Remove slick-greeter menu
+   - For ukui greeter
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 01 Jul 2024 11:08:52 +0900
+
+lightdm-settings (2.0.4) wilma; urgency=medium
+
+  * l10n: Update translations
+  * Update generate_desktop_files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 18 Jun 2024 19:33:14 +0100
+
+lightdm-settings (2.0.4) wilma; urgency=medium
+
+  * l10n: Update translations
+  * Update generate_desktop_files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 18 Jun 2024 19:33:14 +0100
+
+lightdm-settings (2.0.3) wilma; urgency=medium
+
+  [ Michael Webster ]
+  * polkit: Remove restrictions for remote/non-active sessions.
+
+  [ Clement Lefebvre ]
+  * Add scrollbars to settings pages
+  * packaging: Update dependencies
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 05 Jun 2024 13:58:19 +0100
+
+lightdm-settings (2.0.2) virginia; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 04 Jan 2024 16:39:25 +0000
+
+lightdm-settings (2.0.1) virginia; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 03 Dec 2023 15:00:15 +0000
+
+lightdm-settings (2.0.0) virginia; urgency=medium
+
+  [ Michael Webster ]
+  * Remove unused lsb_release import.
+
+  [ Eugenio Depalo ]
+  * Add a setting to configure the user list alignment
+
+  [ Clement Lefebvre ]
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 28 Nov 2023 17:07:54 +0000
+
+lightdm-settings (1.8.2) victoria; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 07 Jul 2023 16:58:50 +0200
+
+lightdm-settings (1.8.1) victoria; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Jun 2023 11:44:19 +0100
+
+lightdm-settings (1.8.0) victoria; urgency=medium
+
+  * a11y: Make the onboard layout configurable
+  * Add a tooltip for the background setting.
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 01 Jun 2023 11:14:22 +0100
+
+lightdm-settings (1.6.1) vera; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 16 Dec 2022 13:01:53 +0000
+
+lightdm-settings (1.6.0) vera; urgency=medium
+
+  [ Clement Lefebvre ]
+  * l10n: Update translations
+
+  [ Michael Webster ]
+  * Use the new 'cursor-theme-name' setting to set the cursor theme instead of modifying /usr/share/icons/default/index.theme.
+  * Add a setting to configure the cursor-theme-size.
+
+  [ Clement Lefebvre ]
+  * Call a mouse a mouse
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 02 Dec 2022 18:07:46 +0000
+
+lightdm-settings (1.5.10) vera; urgency=medium
+
+  [ Leigh Scott ]
+  * Update deprecated distutils.version to packaging.version
+
+  [ Michael Webster ]
+  * Add python3-packaging to dependencies.
+
+  [ Clement Lefebvre ]
+  * Remove unnecessarily check
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Nov 2022 11:31:28 +0000
+
+lightdm-settings (1.5.9) vanessa; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 24 Jul 2022 12:14:02 +0200
+
+lightdm-settings (1.5.8) vanessa; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 26 Jun 2022 15:54:17 +0200
+
+lightdm-settings (1.5.7) una; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 31 Dec 2021 12:46:14 +0000
+
+lightdm-settings (1.5.6) una; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 06 Dec 2021 15:35:16 +0000
+
+lightdm-settings (1.5.5) uma; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 25 Jun 2021 14:52:16 +0100
+
+lightdm-settings (1.5.4) uma; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Jun 2021 10:51:30 +0100
+
+lightdm-settings (1.5.3) uma; urgency=medium
+
+  * Mouse cursors: Properly parse theme names
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 26 May 2021 15:57:05 +0100
+
+lightdm-settings (1.5.2) ulyssa; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 02 Jan 2021 16:56:53 +0000
+
+lightdm-settings (1.5.1) ulyssa; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Dec 2020 12:41:07 +0000
+
+lightdm-settings (1.5.0) ulyssa; urgency=medium
+
+  [ Michael Webster ]
+  * Add setting for editing the clock format.
+
+  [ Clement Lefebvre ]
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 30 Nov 2020 11:31:15 +0000
+
+lightdm-settings (1.4.2) ulyana; urgency=medium
+
+  * Fix title in pkexec policy
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 17 Jun 2020 17:37:40 +0100
+
+lightdm-settings (1.4.1) ulyana; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 17 Jun 2020 14:14:34 +0100
+
+lightdm-settings (1.4.0) ulyana; urgency=medium
+
+  [ Geoff Paul ]
+  * Add control to choose a background-mode setting
+
+  [ Clement Lefebvre ]
+  * Background mode: Simplify setting/description of the newly added feature
+  * l10n: Update POT
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 12 May 2020 11:13:10 +0100
+
+lightdm-settings (1.3.3) tricia; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 06 Jan 2020 11:08:20 +0000
+
+lightdm-settings (1.3.2) tricia; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 11 Dec 2019 13:51:57 +0000
+
+lightdm-settings (1.3.1) tricia; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2019 17:07:14 +0000
+
+lightdm-settings (1.3.0) tricia; urgency=medium
+
+  [ JosephMcc ]
+  * Use newer style settings to match our other applications (#41)
+
+  [ shanmukhateja ]
+  * fix Deprecation warnings on Arch and its derivatives (#38)
+
+  [ claudiux ]
+  * Add the option to choose the mouse pointer theme (#39)
+
+  [ Clement Lefebvre ]
+  * Mouse cursor: Fix msgid and translation
+  * l10n: Generate files
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 22 Nov 2019 12:45:36 +0000
+
+lightdm-settings (1.2.9) tina; urgency=medium
+
+  * Remove Python 3.6 code
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 05 Aug 2019 14:45:52 +0200
+
+lightdm-settings (1.2.8) tina; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 28 Jul 2019 15:26:43 +0200
+
+lightdm-settings (1.2.7) tina; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jul 2019 12:34:01 +0200
+
+lightdm-settings (1.2.6) tina; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Fix generate_desktop_files
+
+  [ Julien Negrotto ]
+  * Fix IndexError when no GTK themes are installed (#33)
+
+  [ shanmukhateja ]
+  * inform user about numlockx on label for better UX (#36)
+
+  [ Clement Lefebvre ]
+  * l10n: Fix msgids
+
+  [ shanmukhateja ]
+  * feat: add autologin timeout (#37)
+
+  [ Clement Lefebvre ]
+  * l10n: Fix msgids
+  * l10n: Update POT
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 30 Jun 2019 16:44:53 +0200
+
+lightdm-settings (1.2.5) tessa; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Dec 2018 14:45:22 +0000
+
+lightdm-settings (1.2.4) tessa; urgency=medium
+
+  [ JosephMcc ]
+  * Settings-widgets: Fix broken theming (#29)
+
+  [ Clement Lefebvre ]
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 27 Nov 2018 19:36:26 +0000
+
+lightdm-settings (1.2.3) tara; urgency=medium
+
+  * Don't show guest-account option if /usr/sbin/guest-account isn't present
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 12 Jul 2018 12:38:34 +0200
+
+lightdm-settings (1.2.2) tara; urgency=medium
+
+  [ Michael Webster ]
+  * Remove complicated dbus check for user background switch.  It doesn't behave the same on all distros.  The special case of Ubuntu's patched lightdm is irrelevant now, we can just compare versions.
+
+  [ Clement Lefebvre ]
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Jun 2018 13:45:00 +0200
+
+lightdm-settings (1.2.1) tara; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 22 May 2018 12:30:02 +0100
+
+lightdm-settings (1.2.0) tara; urgency=medium
+
+  [ Michael Webster ]
+  * Use dbus to check for user background support, as it should now end up being more broadly-supported, rather than just being an Ubuntu patch.
+
+  [ JosephMcc ]
+  * Ensure the stack switcher buttons all have the same width (#19)
+
+  [ Clement Lefebvre ]
+  * Migrate to Pkexec
+
+  [ JosephMcc ]
+  * Add a couple of combos to a size group (#20)
+
+  [ Cobinja ]
+  * Add option to show the GUI on a specific monitor (#17)
+
+  [ Clement Lefebvre ]
+  * Simplify monitor settings
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 May 2018 14:34:23 +0100
+
+lightdm-settings (1.1.4) sylvia; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 23 Nov 2017 12:50:33 +0000
+
+lightdm-settings (1.1.3) sylvia; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate additional files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 03 Nov 2017 14:05:23 +0000
+
+lightdm-settings (1.1.2) sylvia; urgency=medium
+
+  * Add support for numlockx
+  * l10n: Update POT file
+  * SettingsWidgets: Add support for spin buttons
+  * Expose additional LightDM configuration options
+  * Organize settings by pages/sections.
+  * l10n: Update POT file
+  * l10n: Generate additional files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 27 Oct 2017 13:35:36 +0100
+
+lightdm-settings (1.1.1) sonya; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 28 Jun 2017 10:58:42 +0200
+
+lightdm-settings (1.1.0) sonya; urgency=medium
+
+  * Fix bg color selection
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 10 Jun 2017 16:45:14 +0100
+
+lightdm-settings (1.0.9) sonya; urgency=medium
+
+  [ Michael Webster ]
+  * Use a file picker widget for setting logos and backgrounds that allows (#8)
+
+  [ Clement Lefebvre ]
+  * Fix filechooser widget not setting value properly.
+  * l10n: Update POT file
+
+  [ David Mohammed ]
+  * add Headerbar support for GNOME based environments (#12)
+
+  [ Clement Lefebvre ]
+  * l10n: Generate additional files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 May 2017 15:10:53 +0100
+
+lightdm-settings (1.0.8) sonya; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 May 2017 14:17:54 +0100
+
+lightdm-settings (1.0.7) sonya; urgency=medium
+
+  * Save LightDM config in /etc/lightdm/lightdm.conf
+  * Add a tooltip on allow-guest option to indicate a reboot is necessary.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 17 May 2017 11:44:34 +0100
+
+lightdm-settings (1.0.6) sonya; urgency=medium
+
+  * Add the ability to enable/disable guest sessions
+  * l10n: Update POT file
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 16 May 2017 15:03:22 +0100
+
+lightdm-settings (1.0.5) sonya; urgency=medium
+
+  [ leigh123linux ]
+  * fix policy name spelling mistake (#5)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 12 May 2017 15:26:49 +0100
+
+lightdm-settings (1.0.4) sonya; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Generate desktop files
+  * Switch away from pkexec
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 06 May 2017 15:54:18 +0100
+
+lightdm-settings (1.0.3) sonya; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Add support for HiDPI
+  * l10n: Update POT file
+  * HiDPI: Allow to force HiDPI on or off
+  * Don't show a toolbar for now
+  * Only support user backgrounds in Ubuntu derivatives
+
+  [ Sam Burgos ]
+  * make lightdm-settings executable
+
+  [ Santiago Burgos ]
+  * switch to pkexec (#4)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 05 May 2017 13:28:37 +0100
+
+lightdm-settings (1.0.2) sonya; urgency=medium
+
+  * Change app icon
+  * Switch from unity-greeter to slick-greeter
+  * Fix color selection
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 06 Apr 2017 19:56:31 +0100
+
+lightdm-settings (1.0.1) sonya; urgency=medium
+
+  * Add icons
+  * Add desktop file
+  * Create README.md
+  * Hide the Stack switcher for now
+  * Add makepot and POT file
+  * Add COPYING file
+  * l10n: Compile PO at build time
+  * l10n: Add generate_desktop_files script
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 21 Mar 2017 16:05:23 +0000
+
+lightdm-settings (1.0.0) sonya; urgency=low
+
+  * Initial version
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun,  19 Mar 2017 11:05:00 +0000
+
