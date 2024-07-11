@@ -1,3 +1,10 @@
+lightdm-settings (2.0.4+hamonikr2) wilma; urgency=medium
+
+  * Release for bookworm arm64
+   - No change
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 12 Jul 2024 02:41:38 +0900
+
 lightdm-settings (2.0.4+hamonikr1) wilma; urgency=medium
 
   * Remove slick-greeter menu
